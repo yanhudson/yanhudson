@@ -1,5 +1,5 @@
   <!-- ISTP-A -->
-## Oii eu sou o Yan Hudson,  um estudante de Analise e desenvolcimento de Sistemas(ADS)!
+## Oii eu sou o Yan Hudson  <!-- um estudante de Analise e desenvolcimento de Sistemas(ADS)! -->
 <div align="start">
   <a href="https://github.com/yanhudson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanhudson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
